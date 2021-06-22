@@ -25,7 +25,7 @@
 <h2 align="center">Current Projects</h2>
 
 ### <a href="https://github.com/d3rpp/Onyx" target="_blank">The Onyx Game Engine</a>
-This is a Game Engine written entirely in Rust, the main purpose it to help me learn rust and broaden my horizons of programming beyond the [DOM](https://mzl.la/3zJ2o4d). In the coming years however, I hope to evolve this into a fully featured Game Engine, rivalling suck famous things as Epic Games' [Unreal Engine](https://www.unrealengine.com) or the [Unity Engine](https://unity.com)
+This is a Game Engine written entirely in Rust, the main purpose it to help me learn rust and broaden my horizons of programming beyond the [DOM](https://mzl.la/3zJ2o4d). In the coming years however, I hope to evolve this into a fully featured Game Engine, rivalling such famous things as Epic Games' [Unreal Engine](https://www.unrealengine.com) or the [Unity Engine](https://unity.com)
 
 ---
 
