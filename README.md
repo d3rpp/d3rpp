@@ -38,7 +38,7 @@ If you'd like to get in touch about anything programming related, here are some 
   - Snapchat (idk): @hcurren7
 
 <h2 align="center">Spinning Pikachi</h2>
-![tenor](https://user-images.githubusercontent.com/45675641/122871549-4d8a0700-d383-11eb-9a0d-7296b0c3f224.gif)
+![Spinnng Pikachu](https://user-images.githubusercontent.com/45675641/122871549-4d8a0700-d383-11eb-9a0d-7296b0c3f224.gif)
 
 <!--
 **d3rpp/d3rpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
