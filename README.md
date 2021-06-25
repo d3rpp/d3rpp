@@ -27,7 +27,7 @@
 ### <a href="https://github.com/d3rpp/nnz" target="_blank">The NurtureNZ Web-App</a>
 This is the official Web-App for my [NCEA](https://ncea.education.govt.nz) Level 3 Business Studies Project of creating and Selling Flexible Baking Mixes, this uses [Google Firebase](https://firebase.google.com) in order to store recipes and show them to end users, this project was initially written in AngularJS but has since been moved to ReactJS
 
----
+<!-- --- -->
 
 ### <a href="https://github.com/d3rpp/tgs-crew-creator" target="_blank">TGS Rowing Crew Creator</a>
 This is the unofficial crew management solution made for the Takapuna Grammar School Rowing Club. made as a part of my NCEA Level 3 Computer Science Project, it is made using Typescript, Typescript and SCSS, compiled with [Parcel](https://v2.parceljs.org)
