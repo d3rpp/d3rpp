@@ -43,6 +43,14 @@ If you'd like to get in touch about anything programming related, here are some 
   - Instagram: [@fookin_lezah_soights](https://www.instagram.com/fookin_lezah_soights/)
   - Snapchat (idk): @hcurren7
 
+<!-- <h2 align="center">Photo Gallery</h2>
+<div style="display:flex; justify-content:center;">
+
+  <div style="width:40%;height:40vh;background-image: url('https://user-images.githubusercontent.com/45675641/123402680-196d4b00-d5fc-11eb-962c-41eca17bd507.png'); background-size: contain;"> </div>
+
+  <div style="width:40%;height:40vh;background-image: url('https://user-images.githubusercontent.com/45675641/123402797-3b66cd80-d5fc-11eb-8327-20b45e68975e.png'); background-size: contain;"> </div>
+
+</div> -->
 <!--
 **d3rpp/d3rpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
