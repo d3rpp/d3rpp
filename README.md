@@ -1,4 +1,4 @@
-<h1 align="center">G'day, I'm Hudson</h1>
+<h1 align="center">'sup</h1>
 
 <em>The Australian 17 year old who spends too much time in a code editor and not enough time outside. Despite this I row competitively. Formerly for [Takapuna Grammar School](https://tgsrowing.org.nz), however I have since moved on to Club Rowing at [North Shore Rowing Club](https://www.northshorerowing.club) </em>
 
