@@ -5,8 +5,9 @@
 <br /><br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3rpp&show_icons=true&theme=highcontrast" alt="Hudson Currens' Github Stats" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3rpp&theme=dark" width="48%" >
+ </div>
+
 
 <div align="center">
 <sub>I get it this is pathetic, I'm a teenager what did you expect?</sub>
@@ -16,11 +17,13 @@
 
 <h2 align="center">Languages</h2>
 
-  - HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - **(In Progress)** [Rust](https://rust-lang.org)
+<br /><br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3rpp&layout=compact&theme=dark" />
+</div>
+
+<br /><br />
 
 <h2 align="center">Current Projects</h2>
 
