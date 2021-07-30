@@ -5,7 +5,7 @@
 <br /><br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3rpp&theme=dark" width="48%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3rpp&theme=dark" >
  </div>
 
 
