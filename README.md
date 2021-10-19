@@ -8,14 +8,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3rpp&theme=dark" >
  </div>
 
-
-<div align="center">
-<sub>I get it this is pathetic, I'm a teenager what did you expect?</sub>
-</div>
-
 <br /><br />
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Programming Languages</h2>
 
 <br /><br />
 
