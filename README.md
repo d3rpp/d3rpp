@@ -42,7 +42,7 @@ If you'd like to get in touch about anything programming related, here are some 
   - Email: [hudson.curren@icloud.com](mailto:hudson.curren@icloud.com?subject=Github%20Contact)
   - Facebook: [Hudson Curren](https://www.facebook.com/FookinLehzahSoights)
   - Instagram: [@d3rpp.dev](https://www.instagram.com/d3rpp.dev/)
-  - Snapchat (idk): @hcurren7
+  - Linkedin: [hudson-curren](https://www.linkedin.com/in/hudson-curren/)
 
 <!-- <h2 align="center">Photo Gallery</h2>
 <div style="display:flex; justify-content:center;">
