@@ -22,13 +22,15 @@
 
 <h2 align="center">Current Projects</h2>
 
-### <a href="https://github.com/d3rpp/nnz" target="_blank">The NurtureNZ Web-App</a>
-This is the official Web-App for my [NCEA](https://ncea.education.govt.nz) Level 3 Business Studies Project of creating and Selling Flexible Baking Mixes, this uses [Google Firebase](https://firebase.google.com) in order to store recipes and show them to end users, this project was initially written in AngularJS but has since been moved to ReactJS
+I am currently in a busy part of my life, as such i don't really have much going on
+
+<!-- ### <a href="https://github.com/d3rpp/nnz" target="_blank">The NurtureNZ Web-App</a>
+This is the official Web-App for my [NCEA](https://ncea.education.govt.nz) Level 3 Business Studies Project of creating and Selling Flexible Baking Mixes, this uses [Google Firebase](https://firebase.google.com) in order to store recipes and show them to end users, this project was initially written in AngularJS but has since been moved to ReactJS -->
 
 <!-- --- -->
 
-### <a href="https://github.com/d3rpp/tgs-crew-creator" target="_blank">TGS Rowing Crew Creator</a>
-This is the unofficial crew management solution made for the Takapuna Grammar School Rowing Club. made as a part of my NCEA Level 3 Computer Science Project, it is made using Typescript, Typescript and SCSS, compiled with [Parcel](https://v2.parceljs.org)
+<!-- ### <a href="https://github.com/d3rpp/tgs-crew-creator" target="_blank">TGS Rowing Crew Creator</a>
+This is the unofficial crew management solution made for the Takapuna Grammar School Rowing Club. made as a part of my NCEA Level 3 Computer Science Project, it is made using Typescript, Typescript and SCSS, compiled with [Parcel](https://v2.parceljs.org) -->
 
 <!-- ### <a href="https://github.com/d3rpp/Onyx" target="_blank">The Onyx Game Engine (BIG WIP)</a>
 This is a game engine in the planning, it'll be written entirely in rust that has planned support for MacOS, Windows and Linux and possibly later expanding to X-Box, Playstation, Nintendo Switch, iOS/iPadOS and Android. Taking advantage of `rust`'s powerful feature set in order to optimise build per platform (e.g. the MacOS release will only contain code for [Metal](https://developer.apple.com/metal/) and not [Vulkan](https://www.vulkan.org) and the Windows Release will not contain any [Metal](https://developer.apple.com/metal/) Code. This takes advantage of [Spir-V](https://www.khronos.org/spir/) for this -->
