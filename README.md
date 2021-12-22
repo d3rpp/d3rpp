@@ -10,16 +10,6 @@
 
 <br /><br />
 
-<h2 align="center">Programming Languages</h2>
-
-<br /><br />
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3rpp&layout=compact&theme=dark" />
-</div>
-
-<br /><br />
-
 <h2 align="center">Current Projects</h2>
 
 I am currently in a busy part of my life, as such i don't really have much going on
@@ -41,10 +31,9 @@ If for some reason, you would like/need me to help you with something, just ask,
 <h2 align="center">Contact Details</h2>
 If you'd like to get in touch about anything programming related, here are some of my Details
 
-  - Email: [hudson.curren@icloud.com](mailto:hudson.curren@icloud.com?subject=Github%20Contact)
-  - Facebook: [Hudson Curren](https://www.facebook.com/FookinLehzahSoights)
   - Instagram: [@d3rpp.dev](https://www.instagram.com/d3rpp.dev/)
   - Linkedin: [hudson-curren](https://www.linkedin.com/in/hudson-curren/)
+  - Website: [d3rpp.dev](https://d3rpp.dev/)
 
 <!-- <h2 align="center">Photo Gallery</h2>
 <div style="display:flex; justify-content:center;">
@@ -54,17 +43,3 @@ If you'd like to get in touch about anything programming related, here are some 
   <div style="width:40%;height:40vh;background-image: url('https://user-images.githubusercontent.com/45675641/123402797-3b66cd80-d5fc-11eb-8327-20b45e68975e.png'); background-size: contain;"> </div>
 
 </div> -->
-<!--
-**d3rpp/d3rpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
