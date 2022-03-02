@@ -12,7 +12,7 @@
 
 <h2 align="center">Current Projects</h2>
 
-I am currently in a busy part of my life, as such i don't really have much going on
+At the moment, I am studying a L5 Information Systems Diploma at Techtorium (here in NZ), I am completing most of the week long projects in 2 days though, they can all be found at https://github.com/d3rpp-dev (yes i created a github org for this). It is mostly C# but when I get bored i'll often use something else and still meet all of the requirements (e.g. [Project-Charlie](https://github.com/d3rpp-dev/Project-Charlie) uses [Tauri](https://tauri.studio) and looks way better even with a bunch of random material components from [smui](https://sveltematerialui.com/))
 
 <!-- ### <a href="https://github.com/d3rpp/nnz" target="_blank">The NurtureNZ Web-App</a>
 This is the official Web-App for my [NCEA](https://ncea.education.govt.nz) Level 3 Business Studies Project of creating and Selling Flexible Baking Mixes, this uses [Google Firebase](https://firebase.google.com) in order to store recipes and show them to end users, this project was initially written in AngularJS but has since been moved to ReactJS -->
