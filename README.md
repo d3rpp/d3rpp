@@ -43,3 +43,5 @@ If you'd like to get in touch about anything programming related, here are some 
   <div style="width:40%;height:40vh;background-image: url('https://user-images.githubusercontent.com/45675641/123402797-3b66cd80-d5fc-11eb-8327-20b45e68975e.png'); background-size: contain;"> </div>
 
 </div> -->
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4BUSNG)
