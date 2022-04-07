@@ -2,6 +2,8 @@
 
 <em>I'm an Australian 18 year old who spends too much time in a code editor and not enough time outside. Despite this I row competitively. </em>
 
+<em>Also be sure to checkout my Gitlab at <a href="https://gitlab.com/d3rpp">gitlab.com/d3rpp</a></em>
+
 <br /><br />
 
 <div align="center">
