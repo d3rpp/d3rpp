@@ -14,18 +14,7 @@
 
 <h2 align="center">Current Projects</h2>
 
-At the moment, I am studying a L5 Information Systems Diploma at Techtorium (here in NZ), I am completing most of the week long projects in 2 days though, they can all be found at https://github.com/d3rpp-dev (yes i created a github org for this). It is mostly C# but when I get bored i'll often use something else and still meet all of the requirements (e.g. [Project-Charlie](https://github.com/d3rpp-dev/Project-Charlie) uses [Tauri](https://tauri.studio) and looks way better even with a bunch of random material components from [smui](https://sveltematerialui.com/))
-
-<!-- ### <a href="https://github.com/d3rpp/nnz" target="_blank">The NurtureNZ Web-App</a>
-This is the official Web-App for my [NCEA](https://ncea.education.govt.nz) Level 3 Business Studies Project of creating and Selling Flexible Baking Mixes, this uses [Google Firebase](https://firebase.google.com) in order to store recipes and show them to end users, this project was initially written in AngularJS but has since been moved to ReactJS -->
-
-<!-- --- -->
-
-<!-- ### <a href="https://github.com/d3rpp/tgs-crew-creator" target="_blank">TGS Rowing Crew Creator</a>
-This is the unofficial crew management solution made for the Takapuna Grammar School Rowing Club. made as a part of my NCEA Level 3 Computer Science Project, it is made using Typescript, Typescript and SCSS, compiled with [Parcel](https://v2.parceljs.org) -->
-
-<!-- ### <a href="https://github.com/d3rpp/Onyx" target="_blank">The Onyx Game Engine (BIG WIP)</a>
-This is a game engine in the planning, it'll be written entirely in rust that has planned support for MacOS, Windows and Linux and possibly later expanding to X-Box, Playstation, Nintendo Switch, iOS/iPadOS and Android. Taking advantage of `rust`'s powerful feature set in order to optimise build per platform (e.g. the MacOS release will only contain code for [Metal](https://developer.apple.com/metal/) and not [Vulkan](https://www.vulkan.org) and the Windows Release will not contain any [Metal](https://developer.apple.com/metal/) Code. This takes advantage of [Spir-V](https://www.khronos.org/spir/) for this -->
+At the moment, I am working at Datacom (here in NZ) on an internal project, and will be starting my BSc and the University of Auckland in July. I am mainly using Rust and Svelte in the project, that is all I'm allowed to say.
 
 <h2 align="center">Collaboration</h2>
 If for some reason, you would like/need me to help you with something, just ask, I am always looking to learn new things and gain new experiences in the wonderful world that is programming
