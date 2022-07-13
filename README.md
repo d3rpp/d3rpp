@@ -14,7 +14,7 @@
 
 <h2 align="center">Current Projects</h2>
 
-At the moment, I am working at Datacom (here in NZ) on an internal project, and will be starting my BSc and the University of Auckland in July. I am mainly using Rust and Svelte in the project, that is all I'm allowed to say.
+At the moment, I am working at Datacom (here in NZ) on an internal project, I am mainly using Rust and Svelte in the project, that is all I'm allowed to say.
 
 <h2 align="center">Collaboration</h2>
 If for some reason, you would like/need me to help you with something, just ask, I am always looking to learn new things and gain new experiences in the wonderful world that is programming
