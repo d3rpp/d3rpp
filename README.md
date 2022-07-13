@@ -16,6 +16,8 @@
 
 At the moment, I am working at Datacom (here in NZ) on an internal project, I am mainly using Rust and Svelte in the project, that is all I'm allowed to say.
 
+It won't be popping up on here any time soon since all my code is based on the company Gitlab Instance.
+
 <h2 align="center">Collaboration</h2>
 If for some reason, you would like/need me to help you with something, just ask, I am always looking to learn new things and gain new experiences in the wonderful world that is programming
 
