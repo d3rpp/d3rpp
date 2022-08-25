@@ -1,3 +1,7 @@
+<div>
+    <img src="https://user-images.githubusercontent.com/45675641/186766793-849527a1-b98a-4d8d-aec8-48682a1a86dc.png" alt="q_rsqrt.rs" />
+</div>
+
 <h1 align="center">'sup</h1>
 
 <em>I'm an Australian 18 year old who spends too much time in a code editor and not enough time outside. Despite this I row competitively. </em>
