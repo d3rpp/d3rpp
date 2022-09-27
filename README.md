@@ -1,5 +1,5 @@
-<div>
-    <img src="https://user-images.githubusercontent.com/45675641/186766793-849527a1-b98a-4d8d-aec8-48682a1a86dc.png" alt="q_rsqrt.rs" />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/45675641/192653833-db358319-73c6-479c-b60c-391daa3e0c32.png" />
 </div>
 
 <h1 align="center">'sup</h1>
