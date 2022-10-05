@@ -18,19 +18,7 @@
 
 <h2 align="center">Current Projects</h2>
 
-At the moment, I am working at Datacom (here in NZ) on an internal project, I am mainly using Rust and Svelte in the project, that is all I'm allowed to say.
-
-It won't be popping up on here any time soon since all my code is based on the company Gitlab Instance.
-
-<h2 align="center">Collaboration</h2>
-If for some reason, you would like/need me to help you with something, just ask, I am always looking to learn new things and gain new experiences in the wonderful world that is programming
-
-<h2 align="center">Contact Details</h2>
-If you'd like to get in touch about anything programming related, here are some of my Details
-
-  - Instagram: [@d3rpp.dev](https://www.instagram.com/d3rpp.dev/)
-  - Linkedin: [hudson-curren](https://www.linkedin.com/in/hudson-curren/)
-  - Website: [d3rpp.dev](https://d3rpp.dev/)
+At the moment, I am working at Datacom (here in NZ) on an internal project, I am mainly using Rust and Svelte in the project.
 
 <!-- <h2 align="center">Photo Gallery</h2>
 <div style="display:flex; justify-content:center;">
