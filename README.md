@@ -1,4 +1,5 @@
-Intern Software Developer at [Datacom](https://datacom.co.nz)
+- Intern Software Developer at [Datacom](https://datacom.co.nz)
+- [Cider Developer](https://cider.sh)
 
 <em>Also be sure to checkout my Gitlab at <a href="https://gitlab.com/d3rpp">gitlab.com/d3rpp</a></em>
 
