@@ -7,8 +7,8 @@
 
 **Cider is (at least for now) a closed source application so you will most likely not see it here**
 
-Wakatime (only applies to non-datacom repos)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d3rpp&theme=dark" alt="https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d3rpp&theme=gruvbox&count_private=true&show_icons=true" alt="https://github.com/anuraghazra/github-readme-stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d3rpp&theme=gruvbox&show_icons=true" alt="https://github.com/anuraghazra/github-readme-stats"/>
 </div>
