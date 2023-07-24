@@ -1,5 +1,7 @@
-- Software Developer at [Datacom](https://datacom.co.nz)
+- SIntern Software Developer
 - [Cider Developer](https://cider.sh)
+
+Later in life I'm aiming to get some certs and move towards network engineering, hopefully being able to use my programming knowledge to create netowking tools but who knows lmao. Either way, Network Engineering
 
 <em>Also be sure to checkout my Gitlab at <a href="https://gitlab.com/d3rpp">gitlab.com/d3rpp</a></em>
 
