@@ -1,8 +1,3 @@
-- Intern Software Developer
-- [Cider](https://cider.sh) Backend Lead
-
-Later in life, I'm aiming to get some certs and move towards network engineering, hopefully being able to use my programming knowledge to create networking tools but who knows lmao. Either way, Network Engineering
-
 <br />
 <br />
 <br />
