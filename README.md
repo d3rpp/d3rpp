@@ -2,9 +2,11 @@
 <br />
 <br />
 
-you probably won't find much here since my code is too busy making money on the company Gitlab, sorry mate.
+Intern Software Engineer at [Datacom](https://datacom.com), ***Former*** [Cider](https://cider.sh) Developer, Doer of Shenanigans.
 
-I do kinda wanna contribute to open source more in the future though.
+Here's a `fastfetch` screenshot because I'm feeling obnoxious.
+
+![Screenshot_20241116_131252](https://github.com/user-attachments/assets/284e7454-1fc2-4840-ad44-0e57accc429d)
 
 <br />
 <br />
