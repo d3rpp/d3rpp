@@ -11,3 +11,7 @@ Here's a `fastfetch` screenshot because I'm feeling obnoxious.
 <br />
 <br />
 <br />
+
+<div align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.d3rpp.dev/api/top-langs/?username=d3rpp&theme=dark&layout=donut-vertical">
+</div>
