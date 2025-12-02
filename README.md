@@ -14,4 +14,4 @@ Dev at [Datacom](https://datacom.com)<sup>*</sup>, ***Former*** [Cider](https://
 
 <br />
 
-<sup>*</sup><sub>Opinions are my own, and are not representative of the opinion of the Company. Especially when it comes to AI</sub>
+<sup>*</sup><sub>Opinions are my own, and are not representative of the opinion of the Company. Especially when it comes to Generative AI</sub>
