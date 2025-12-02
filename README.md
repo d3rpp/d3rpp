@@ -1,6 +1,6 @@
 <br />
 
-Dev at [Datacom](https://datacom.com), ***Former*** [Cider](https://cider.sh) Developer, Doer of Shenanigans.
+Dev at [Datacom](https://datacom.com)<sup>*</sup>, ***Former*** [Cider](https://cider.sh) Developer, Doer of Shenanigans.
 
 <br />
 
@@ -13,3 +13,5 @@ Dev at [Datacom](https://datacom.com), ***Former*** [Cider](https://cider.sh) De
 </div>
 
 <br />
+
+<sup>*</sup><sub>Opinions are my own, and are not representative of the opinion of the Company. Especially when it comes to AI</sub>
